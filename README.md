@@ -1,2 +1,0 @@
-# gitDe-mo
-demo
